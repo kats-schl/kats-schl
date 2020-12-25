@@ -1,9 +1,10 @@
-### Hi there, my name's Katharina Schlüter! 👋
+### ✨ Hi there, I'm Katharina Schlüter!
 
-<!--
-**kats-schl/kats-schl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying in the "Information Systems Management" Masters' programm at the [TU Berlin](https://www.tu.berlin/) but I'm looking forward to change to "Computer Science" Masters in the near future.
 
-Here are some ideas to get you started:
+I'm spending a lot of time coding, working and building in the Formula Student Team [FaSTTUBe](fhttps://fasttube.de/) where I'm responsible for state estimation and actuation in our driverless racing car :racing_car: 
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-- 😄 Pronouns: she/her 
+
+- 😄 Pronouns: she/her
