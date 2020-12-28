@@ -3,7 +3,7 @@
 
 I currently study in the Master's program 'Information Systems Management' at the [TU Berlin](https://www.tu.berlin/) hoping to switch to the Master's program 'Computer Science' soon. Previously, I completed my Bachelor of Science in 'Business Computing' with a thesis on SQL injection using the [DVWA](https://github.com/digininja/DVWA) and [sqlmap](http://sqlmap.org/).  
 
-:racing_car: I'm spending a lot of my free time coding, working and building in the Formula Student Team [FaSTTUBe](https://fasttube.de/) where I'm responsible for state estimation and actuation in our driverless racing car. 
+:racing_car: I'm spending a lot of my free time coding, working and building in the Formula Student Team [FaSTTUBe](https://fasttube.de/) where I'm responsible for state estimation and actuation in our driverless racing car.
 
 
 
@@ -15,6 +15,7 @@ I currently study in the Master's program 'Information Systems Management' at th
 
 ------------------------
 #### :brain: Current  projects and ideas on my mind:
+* [ ] Finishing first prototype for state estimation and actuation for [FaSTTUBe](https://fasttube.de/)
 * [ ] Implementing my code for [FaSTTUBe](https://fasttube.de/) using Simulink
 * [ ] Building a remotely controlled LEGO-car with my Arduino
 * [ ] Coursera's [Specialization on applied data science with python](https://www.coursera.org/specializations/data-science-python)
