@@ -14,11 +14,16 @@ I currently study in the Master's program 'Information Systems Management' at th
 - 📫 You can reach me via LinkedIn [<img height="18px" src="./images/LinkedIn.png" />](https://www.linkedin.com/in/katharina-schl%C3%BCter-5077b5166/) or mail (katharina.schlueter(:envelope:)campus.tu-berlin.de).
 
 ------------------------
-#### :brain: Current  projects and ideas on my mind:
-* [ ] Finishing first prototype for state estimation and actuation for [FaSTTUBe](https://fasttube.de/)
+#### :brain: Current  projects:
+* [x] Finishing first prototype for state estimation and actuation for [FaSTTUBe](https://fasttube.de/)
 * [ ] Implementing my code for [FaSTTUBe](https://fasttube.de/) using Simulink
-* [ ] Building a remotely controlled LEGO-car with my Arduino
+* [ ] Building a virtual office for my team at work with WorkAdventure
+* [x] Code first working version of a Telegram Bot
 * [ ] Coursera's [Specialization on applied data science with python](https://www.coursera.org/specializations/data-science-python)
+
+
+#### :brain: Next ideas on my mind:
+* [ ] Building a remotely controlled LEGO-car with my Arduino
 * [ ] Building a Time-Turner to pursue all the project-ideas in my head
 
 -----------------------
